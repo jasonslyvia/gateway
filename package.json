@@ -4,7 +4,7 @@
   "description": "A fast AI gateway by Portkey",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Portkey-AI/gateway.git"
+    "url": "git@github.com:jasonslyvia/gateway.git"
   },
   "keywords": [
     "AI gateway",
